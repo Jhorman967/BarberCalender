@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/BarberCalender/static/css/main.e2644493.chunk.css",
+    "main.js": "/BarberCalender/static/js/main.16a13573.chunk.js",
+    "main.js.map": "/BarberCalender/static/js/main.16a13573.chunk.js.map",
+    "runtime-main.js": "/BarberCalender/static/js/runtime-main.080af0e5.js",
+    "runtime-main.js.map": "/BarberCalender/static/js/runtime-main.080af0e5.js.map",
+    "static/css/2.320fd0de.chunk.css": "/BarberCalender/static/css/2.320fd0de.chunk.css",
+    "static/js/2.4eaa0cda.chunk.js": "/BarberCalender/static/js/2.4eaa0cda.chunk.js",
+    "static/js/2.4eaa0cda.chunk.js.map": "/BarberCalender/static/js/2.4eaa0cda.chunk.js.map",
+    "static/js/3.6c1a3410.chunk.js": "/BarberCalender/static/js/3.6c1a3410.chunk.js",
+    "static/js/3.6c1a3410.chunk.js.map": "/BarberCalender/static/js/3.6c1a3410.chunk.js.map",
+    "index.html": "/BarberCalender/index.html",
+    "precache-manifest.0f3c4238858dc6306161ed4b4dcc1d36.js": "/BarberCalender/precache-manifest.0f3c4238858dc6306161ed4b4dcc1d36.js",
+    "service-worker.js": "/BarberCalender/service-worker.js",
+    "static/css/2.320fd0de.chunk.css.map": "/BarberCalender/static/css/2.320fd0de.chunk.css.map",
+    "static/css/main.e2644493.chunk.css.map": "/BarberCalender/static/css/main.e2644493.chunk.css.map",
+    "static/js/2.4eaa0cda.chunk.js.LICENSE.txt": "/BarberCalender/static/js/2.4eaa0cda.chunk.js.LICENSE.txt",
+    "static/js/3.6c1a3410.chunk.js.LICENSE.txt": "/BarberCalender/static/js/3.6c1a3410.chunk.js.LICENSE.txt",
+    "static/js/main.16a13573.chunk.js.LICENSE.txt": "/BarberCalender/static/js/main.16a13573.chunk.js.LICENSE.txt",
+    "static/media/flags.css": "/BarberCalender/static/media/flags_responsive.73e6b012.png",
+    "static/media/primeicons.css": "/BarberCalender/static/media/primeicons.e01fd413.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.080af0e5.js",
+    "static/css/2.320fd0de.chunk.css",
+    "static/js/2.4eaa0cda.chunk.js",
+    "static/css/main.e2644493.chunk.css",
+    "static/js/main.16a13573.chunk.js"
+  ]
+}
